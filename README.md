@@ -3,7 +3,7 @@ AutoTest Studio is an excellent software automation testing platform, using pyth
 
 Official website：https://www.autoteststudio.com/
 Download URL：https://www.autoteststudio.com/?page_id=1259
-The latest version is 2.0.3.
+The latest version is 2.0.3
 
 Main features：
 Logs and Reports
@@ -18,4 +18,3 @@ Debugger
 AutoTest Studio integrates a powerful Python Debugger,which makes it easier for you to find exceptions and error messages in program execution.
 Test case Runner
 AutoTest Studio has an advanced task engine that can provide a variety of task execution scheduling methods, such as timed tasks, cyclic execution, and execution of test cases in specified states.
-
